@@ -1,0 +1,17 @@
+#icon {
+    height: 62px;
+}
+
+body{
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    background-color: rgb(138, 34, 34);
+    font-family:Arial, Helvetica, sans-serif;
+    color: black;
+}
