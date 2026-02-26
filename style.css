@@ -33,11 +33,13 @@ nav {
     margin: 10px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    border-radius: 20px;
 }
 
 .img_noticias  {
     max-width: 100%;
     height: 300px;
+    border-radius: 20px;
 }
 
 footer {
@@ -63,4 +65,18 @@ footer {
     margin: 10px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+}
+
+.selecao p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mascote {
+  position: fixed;      
+  bottom: 20px;         
+  right: 20px;         
+  width: 200px;         
+  z-index: 9999;        
 }
